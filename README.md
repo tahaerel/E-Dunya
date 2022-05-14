@@ -1,6 +1,6 @@
 <h1>👋 PushUP Ekibi - E-Dünya Projesi</h1>
 
-Proje Unity oyun motoru 2020.3.34f1 ile oluşturulmuştur.
+Proje Unity oyun motoru 2020.3.34f1 sürümü ile oluşturulmuştur.
 
 Amaç:
 Türkiye Cumhuriyeti Devleti üzerinde bulunan kamu sektöründeki ve özel sektördeki şirketleri bir evren üzerinde toplamak, yapılabilecek işlemleri blockchain üzerinden 
