@@ -4,7 +4,7 @@ Proje Unity oyun motoru 2020.3.34f1 sürümü ile oluşturulmuştur.
 
 Amaç:
 Türkiye Cumhuriyeti Devleti üzerinde bulunan kamu sektöründeki ve özel sektördeki şirketleri bir evren üzerinde toplamak, yapılabilecek işlemleri blockchain üzerinden 
-bu sanal evrende yapmak.
+sosyal bir sanal evren üzerinden yapmak.
 
 Assets -> Project -> Scenes -> Login sahnesi açılarak Metamask mobil uygulamasıyla birlikte Metamask cüzdanına bağlanılır.
 Kullanıcıya bir id verilir ve tüm blockchain işlemleri bu sanal kimliği üzerinden gerçekleştirir.
