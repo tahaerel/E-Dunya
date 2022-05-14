@@ -17,9 +17,6 @@ WalletConnect Metamask olarak seçilir.
 Multiplayer entegresi için Photon pun 2 sitesinden https://dashboard.photonengine.com Pun app'i oluşturularak server id si alınır. Bu id PhotonServerSettings dosyasında bulunan App Id Pun kısmına yazılır ve bağlantı sağlanır.
 
 <p align=center>
-  
-  
-  ![Layer 2](https://user-images.githubusercontent.com/63150746/168443294-402c5b7e-37f8-408f-b4b4-10be40e9e49d.png)
-
-
+ 
+<img src="https://user-images.githubusercontent.com/63150746/168443294-402c5b7e-37f8-408f-b4b4-10be40e9e49d.png" width="100" height="100">
   </p>
