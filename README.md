@@ -18,5 +18,5 @@ Multiplayer entegresi için Photon pun 2 sitesinden https://dashboard.photonengi
 
 <p align=center>
  
-<img src="https://user-images.githubusercontent.com/63150746/168443294-402c5b7e-37f8-408f-b4b4-10be40e9e49d.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/63150746/168443294-402c5b7e-37f8-408f-b4b4-10be40e9e49d.png" width="500" height="300">
   </p>
