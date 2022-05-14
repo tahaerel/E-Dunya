@@ -311,9 +311,6 @@ MonoBehaviour:
   CameraAngleOverride: 0
   LockCameraPosition: 0
   photonView: {fileID: 0}
-  moralisUserName: 
-  moralisWalletAddress: 
-  moralisWalletAddressFormatted: 
 --- !u!114 &95259341984684554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2730,6 +2727,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Female C
       objectReference: {fileID: 0}
+    - target: {fileID: 1131775697853092, guid: de2a7efe044817e43b49fa819dea7499, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577659664807648, guid: de2a7efe044817e43b49fa819dea7499, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1795282429888520, guid: de2a7efe044817e43b49fa819dea7499, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4480994524703266, guid: de2a7efe044817e43b49fa819dea7499, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -2772,6 +2781,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4480994524703266, guid: de2a7efe044817e43b49fa819dea7499, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23703550787044264, guid: de2a7efe044817e43b49fa819dea7499, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

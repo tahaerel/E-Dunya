@@ -465,7 +465,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: LOGIN
+  m_text: "G\u0130R\u0130S"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
   m_sharedMaterial: {fileID: 9007697025967795912, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
@@ -880,7 +880,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Select a username:'
+  m_text: "Kullan\u0131c\u0131 ad\u0131 se\xE7:"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
   m_sharedMaterial: {fileID: 9007697025967795912, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
@@ -1197,7 +1197,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scan QR to Login
+  m_text: "Giris i\xE7in Qr kodu taray\u0131n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 9007697025967795912, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
@@ -1581,7 +1581,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: LOGIN
+  m_text: "G\u0130R\u0130S"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
   m_sharedMaterial: {fileID: 9007697025967795912, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
@@ -1931,9 +1931,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: JOIN ROOM
+  m_text: Giris Yap
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 9007697025967795912, guid: 9bd53f79a9041ed4fab1fb1fa2b71385, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1997,7 +1997,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1741693235

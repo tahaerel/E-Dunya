@@ -2458,9 +2458,6 @@ MonoBehaviour:
   CameraAngleOverride: 0
   LockCameraPosition: 0
   photonView: {fileID: 0}
-  moralisUserName: 
-  moralisWalletAddress: 
-  moralisWalletAddressFormatted: 
 --- !u!114 &5920564863700093229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2772,6 +2769,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4883985664657356, guid: f933c455b886ad644b60dc415ab31bb3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23887596898396968, guid: f933c455b886ad644b60dc415ab31bb3, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

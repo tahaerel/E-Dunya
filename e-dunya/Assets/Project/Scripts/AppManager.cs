@@ -120,12 +120,12 @@ public class AppManager : MonoBehaviour
             if (user != null)
             {
                 Debug.Log($"User {user.username} logged in successfully. ");
-                infoLabel.text = $"User {user.username} logged in successfully!";
+                infoLabel.text = $"Kullanýcý {user.username} giris yaptý!";
             }
             else
             {
                 Debug.Log("User login failed.");
-                infoLabel.text = "Login failed";
+                infoLabel.text = "Giris basarisiz";
             }
         }
 
@@ -134,7 +134,7 @@ public class AppManager : MonoBehaviour
     
     public void HandleWalletConnected()
     {
-        infoLabel.text = "Connection successful. Please sign message on Wallet";
+        infoLabel.text = "Giris basarili. Lutfen Metamask uzerinden imzalayin";
     }
 
     public void HandleWalletDisconnected()
@@ -142,7 +142,7 @@ public class AppManager : MonoBehaviour
         _currentActivePanel.SetActive(true);
         loggedInPanel.SetActive(false);
         
-        infoLabel.text = "Wallet disconnected. Try scanning again!";
+        infoLabel.text = "Cuzdan baglantisi koptu";
     }
 
     public void WalletConnectSessionEstablished(WalletConnectUnitySession session)
@@ -226,7 +226,7 @@ public class AppManager : MonoBehaviour
         {
             _currentActivePanel.SetActive(false);
             loggedInPanel.SetActive(true);
-            infoLabel.text = $"User {user.username} is logged in";
+            infoLabel.text = $"Kullanýcý {user.username} giris yaptý";
         }
     }
     
