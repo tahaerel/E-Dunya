@@ -1,4 +1,4 @@
-<h1>👋 PushUP Ekibi - E-Dünya Projesi</h1>
+<h1> PushUP Ekibi - E-Dünya Projesi</h1>
 
 Proje Unity oyun motoru 2020.3.34f1 sürümü ile oluşturulmuştur.
 
