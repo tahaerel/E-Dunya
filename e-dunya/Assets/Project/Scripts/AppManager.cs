@@ -142,7 +142,7 @@ public class AppManager : MonoBehaviour
         _currentActivePanel.SetActive(true);
         loggedInPanel.SetActive(false);
         
-        infoLabel.text = "Cuzdan baglantisi koptu";
+        infoLabel.text = "Cuzdan baglantisi kaldirildi";
     }
 
     public void WalletConnectSessionEstablished(WalletConnectUnitySession session)
