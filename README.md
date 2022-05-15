@@ -10,7 +10,7 @@ Assets -> Project -> Scenes -> Login sahnesi açılarak Metamask mobil uygulamas
 Kullanıcıya bir id verilir ve tüm blockchain işlemleri bu sanal kimliği üzerinden gerçekleştirir.
 (NFT alım satım, akıllı kontratlar)
 
-Projede blockchan entegresi için Moralis Web3 Development Platform, evreni multiplayer hale getirmek için Photon Pun 2 Game Server kullanılmıştır.
+Projede blockchan entegresi için ücretsiz olan Moralis Web3 Development Platform, evreni multiplayer hale getirmek için ücretsiz olan Photon Pun 2 Game Server kullanılmıştır.
 Moralis üzerinden Etherium mainnet üzerinden bir server başlatılarak bu serverin Moralis Server URI ve Moralis Application Id ' si Unity'de login sahnesinde bulunan Moralis Connection prefabının Moralis Setup gameobjectine yazılır.
 WalletConnect Metamask olarak seçilir.
 
