@@ -9,13 +9,13 @@
 
 Proje Unity oyun motoru 2020.3.34f1 sürümü ile oluşturulmuştur.
 
-<h3>Amaç<h3>
+<h3>Amaç</h3>
 Türkiye Cumhuriyeti Devleti üzerinde bulunan kamu sektöründeki ve özel sektördeki şirketleri bir evren üzerinde toplamak, yapılabilecek işlemleri blockchain üzerinden 
 sosyal bir sanal evren üzerinden yapmak.
 
 
 
-<h3>Unity Dosyasını Açmak<h3>
+<h3>Unity Dosyasını Açmak</h3>
 Unity Hub üzerinden open -> add project from disk den proje konumu seçilir ve başlatılır.
 Projede blockchan entegresi için ücretsiz olan Moralis Web3 Development Platform, evreni multiplayer hale getirmek için ücretsiz olan Photon Pun 2 Game Server kullanılmıştır.
 Moralis üzerinden Etherium mainnet üzerinden bir server başlatılarak bu serverin Moralis Server URI ve Moralis Application Id ' si Unity'de login sahnesinde bulunan Moralis Connection prefabının Moralis Setup gameobjectine yazılır.
