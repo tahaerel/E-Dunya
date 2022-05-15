@@ -27,7 +27,7 @@ Kullanıcıya bir id verilir ve tüm blockchain işlemleri bu sanal kimliği üz
 (NFT alım satım, akıllı kontratlar vs.)
  
 Test amaçlı exe build repoya eklenmiştir. Moralis mobil uygulaması ile ekrandaki Qr kodu okutarak giriş yapılır ve evrene girilir.
-Proje web , exe ve mobile uyumludur.
+Proje web , windows ve mobil ile uyumludur.
 
 <p align=center>
  
