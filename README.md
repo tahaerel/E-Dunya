@@ -1,5 +1,12 @@
 <h1> PushUP Ekibi - E-Dünya Projesi</h1>
 
+<p align=center>
+ 
+![e dunya wallpaper](https://user-images.githubusercontent.com/63150746/168457349-86619477-f3f5-4a7b-9f06-2d27ac33fa6e.png)
+  </p>
+
+
+
 Proje Unity oyun motoru 2020.3.34f1 sürümü ile oluşturulmuştur.
 
 Amaç:
