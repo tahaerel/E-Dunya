@@ -26,7 +26,8 @@ Assets -> Project -> Scenes -> Login sahnesi açılarak Metamask mobil uygulamas
 Kullanıcıya bir id verilir ve tüm blockchain işlemleri bu sanal kimliği üzerinden gerçekleştirir.
 (NFT alım satım, akıllı kontratlar vs.)
  
-
+Test amaçlı exe build repoya eklenmiştir. Moralis mobil uygulaması ile ekrandaki Qr kodu okutarak giriş yapılır ve evrene girilir.
+Proje web , exe ve mobile uyumludur.
 
 <p align=center>
  
